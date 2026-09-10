@@ -1,0 +1,8 @@
+{
+  "name": "sehgalrepo",
+  "description": "sehgalrepo — Personal SimpleStream Plugin Repository by sehgalvansh716-pixel. Hosts NetMirror and Cinejoy streaming extensions.",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/sehgalvansh716-pixel/sehgalrepo/main/plugins.json"
+  ]
+}
